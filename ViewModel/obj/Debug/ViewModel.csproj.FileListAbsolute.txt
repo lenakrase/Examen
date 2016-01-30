@@ -1,0 +1,7 @@
+C:\Users\home\Documents\Visual Studio 2015\Projects\ExamenWork\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\home\Documents\Visual Studio 2015\Projects\ExamenWork\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\home\Documents\Visual Studio 2015\Projects\ExamenWork\ViewModel\bin\Debug\Model.dll
+C:\Users\home\Documents\Visual Studio 2015\Projects\ExamenWork\ViewModel\bin\Debug\Model.pdb
+C:\Users\home\Documents\Visual Studio 2015\Projects\ExamenWork\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2015\Projects\ExamenWork\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\home\Documents\Visual Studio 2015\Projects\ExamenWork\ViewModel\obj\Debug\ViewModel.pdb
